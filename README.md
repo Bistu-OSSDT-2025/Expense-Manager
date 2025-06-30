@@ -16,3 +16,36 @@
 
 
 ### 运行步骤
+
+## 🚀 快速使用（用户指引）
+1. **添加记录**：点击底部 ➕ 按钮
+2. **选择类型**：收入（绿色）或支出（红色）
+3. **填写信息**：金额 + 分类 + 备注
+4. **查看统计**：首页顶部显示本月预算进度
+5. **切换月份**：左右滑动顶部日历区域
+
+![](screenshots/add-expense.png) <!-- 操作截图示例 -->
+
+## 🛠️ 技术栈
+- **语言**: Kotlin (主) + Java
+- **数据库**: SQLite + [Room Persistence Library](https://developer.android.com/training/data-storage/room)
+- **架构**: MVVM (Model-View-ViewModel)
+- **依赖注入**: [Hilt](https://dagger.dev/hilt/)
+- **图表**: [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
+- **异步**: Kotlin Coroutines + Flow
+
+## 🤝 如何贡献
+欢迎通过 Issues 和 Pull Requests 参与改进！  
+👉 详见 [CONTRIBUTING.md](CONTRIBUTING.md)
+
+## 📄 许可证
+本项目采用 Apache Lisence 2.0 协议 - 详情见 [lisence](https://github.com/Bistu-OSSDT-2025/Expense-Manager/blob/main/LICENSE)文件
+
+## 👨‍💻 开发团队
+| 成员 | 角色 |  
+| 李婧 | DevOps |  
+| 张思琪 | 前端开发 |  
+| 常小北/孙星宜 | 后端/数据库 |  
+| 谢萌晶 | QA & 文档 |  
+
+> 此项目为北京信息科技大学2025年小学期《开源软件开发技术》课程第16组的课程作业
