@@ -36,7 +36,7 @@
 
 ## 🤝 如何贡献
 欢迎通过 Issues 和 Pull Requests 参与改进！  
-👉 详见 [CONTRIBUTING.md](CONTRIBUTING.md)
+👉 详见 [credits](https://github.com/Bistu-OSSDT-2025/Expense-Manager/blob/xie%E2%80%98s/CREDITS)
 
 ## 📄 许可证
 本项目采用 Apache Lisence 2.0 协议 - 详情见 [lisence](https://github.com/Bistu-OSSDT-2025/Expense-Manager/blob/main/LICENSE)文件
