@@ -10,11 +10,11 @@
 - **数据存储**：本地数据库保存交易和用户信息
 - **智能提醒**：重要支出提醒和财务分析报告
 
-[https://github.com/Bistu-OSSDT-2025/Expense-Manager/blob/xie%E2%80%98s/%E6%BC%94%E7%A4%BA.mp4](https://github.com/Bistu-OSSDT-2025/Expense-Manager/issues/4)
+![https://github.com/Bistu-OSSDT-2025/Expense-Manager/blob/xie%E2%80%98s/%E6%BC%94%E7%A4%BA.mp4](https://github.com/Bistu-OSSDT-2025/Expense-Manager/issues/4)
 
-https://github.com/Bistu-OSSDT-2025/Expense-Manager/blob/xie%E2%80%98s/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250704111737_84.jpg
+![](https://github.com/Bistu-OSSDT-2025/Expense-Manager/blob/xie%E2%80%98s/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250704111737_84.jpg)
 
-https://github.com/Bistu-OSSDT-2025/Expense-Manager/blob/xie%E2%80%98s/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250704111744_85.jpg
+![](https://github.com/Bistu-OSSDT-2025/Expense-Manager/blob/xie%E2%80%98s/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250704111744_85.jpg)
 
 ## 📥 安装指南
 1. 克隆仓库
@@ -41,13 +41,13 @@ git clone https://github.com/yourusername/keepb.git
 - 填写交易金额、类别和描述
 - 点击 "保存" 完成添加
 
-https://github.com/Bistu-OSSDT-2025/Expense-Manager/blob/xie%E2%80%98s/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250704111753_86.jpg
+![](https://github.com/Bistu-OSSDT-2025/Expense-Manager/blob/xie%E2%80%98s/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250704111753_86.jpg)
 
-https://github.com/Bistu-OSSDT-2025/Expense-Manager/blob/xie%E2%80%98s/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250704111802_87.jpg
+![](https://github.com/Bistu-OSSDT-2025/Expense-Manager/blob/xie%E2%80%98s/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250704111802_87.jpg)
 
-https://github.com/Bistu-OSSDT-2025/Expense-Manager/blob/xie%E2%80%98s/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250704111809_88.jpg
+![](https://github.com/Bistu-OSSDT-2025/Expense-Manager/blob/xie%E2%80%98s/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250704111809_88.jpg)
 
-https://github.com/Bistu-OSSDT-2025/Expense-Manager/blob/xie%E2%80%98s/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250704111813_89.jpg
+![](https://github.com/Bistu-OSSDT-2025/Expense-Manager/blob/xie%E2%80%98s/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250704111813_89.jpg)
 
 3. 查看统计
 - 在主界面选择 "统计" 选项
