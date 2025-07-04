@@ -10,7 +10,7 @@
 - **数据存储**：本地数据库保存交易和用户信息
 - **智能提醒**：重要支出提醒和财务分析报告
 
-https://github.com/Bistu-OSSDT-2025/Expense-Manager/blob/xie%E2%80%98s/%E6%BC%94%E7%A4%BA.mp4
+[https://github.com/Bistu-OSSDT-2025/Expense-Manager/blob/xie%E2%80%98s/%E6%BC%94%E7%A4%BA.mp4](https://github.com/Bistu-OSSDT-2025/Expense-Manager/issues/4)
 
 ## 📥 安装指南
 1. 克隆仓库
