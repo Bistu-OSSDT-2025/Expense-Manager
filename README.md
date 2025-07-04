@@ -45,10 +45,6 @@ git clone https://github.com/yourusername/keepb.git
 
 ![](https://github.com/Bistu-OSSDT-2025/Expense-Manager/blob/xie%E2%80%98s/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250704111802_87.jpg)
 
-![](https://github.com/Bistu-OSSDT-2025/Expense-Manager/blob/xie%E2%80%98s/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250704111809_88.jpg)
-
-![](https://github.com/Bistu-OSSDT-2025/Expense-Manager/blob/xie%E2%80%98s/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250704111813_89.jpg)
-
 3. 查看统计
 - 在主界面选择 "统计" 选项
 - 选择查看的时间范围和分类
