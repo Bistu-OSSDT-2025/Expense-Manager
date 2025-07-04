@@ -12,9 +12,10 @@
 
 ![https://github.com/Bistu-OSSDT-2025/Expense-Manager/blob/xie%E2%80%98s/%E6%BC%94%E7%A4%BA.mp4](https://github.com/Bistu-OSSDT-2025/Expense-Manager/issues/4)
 
-![](https://github.com/Bistu-OSSDT-2025/Expense-Manager/blob/xie%E2%80%98s/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250704111737_84.jpg)
-
-![](https://github.com/Bistu-OSSDT-2025/Expense-Manager/blob/xie%E2%80%98s/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250704111744_85.jpg)
+演示图片1
+![演示图片1](https://github.com/Bistu-OSSDT-2025/Expense-Manager/blob/xie%E2%80%98s/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250704111737_84.jpg)
+演示图片2
+![演示图片2](https://github.com/Bistu-OSSDT-2025/Expense-Manager/blob/xie%E2%80%98s/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250704111744_85.jpg)
 
 ## 📥 安装指南
 1. 克隆仓库
@@ -41,9 +42,10 @@ git clone https://github.com/yourusername/keepb.git
 - 填写交易金额、类别和描述
 - 点击 "保存" 完成添加
 
-![](https://github.com/Bistu-OSSDT-2025/Expense-Manager/blob/xie%E2%80%98s/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250704111753_86.jpg)
-
-![](https://github.com/Bistu-OSSDT-2025/Expense-Manager/blob/xie%E2%80%98s/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250704111802_87.jpg)
+演示图片3
+![演示图片3](https://github.com/Bistu-OSSDT-2025/Expense-Manager/blob/xie%E2%80%98s/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250704111753_86.jpg)
+演示图片4
+![演示图片4](https://github.com/Bistu-OSSDT-2025/Expense-Manager/blob/xie%E2%80%98s/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250704111802_87.jpg)
 
 3. 查看统计
 - 在主界面选择 "统计" 选项
